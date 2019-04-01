@@ -6,8 +6,9 @@
   "author": "snm8xf",
   "dependencies": {
     "discord.io": "^2.5.3",
+    "dotenv": "^7.0.0",
     "winston": "^3.2.1"
-  }
+  },
   "engines": {
     "node": "8.10"
   }
