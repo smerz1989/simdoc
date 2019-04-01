@@ -1,4 +1,4 @@
-require('dotenv').config()
+//require('dotenv').config()
 
 var Discord = require('discord.io');
 var logger = require('winston');
